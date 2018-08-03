@@ -1,0 +1,33 @@
+Test is started
+Test is End
+____________TC001 _Test is started___________
+Clicked on signin button with object: [[ChromeDriver: chrome on XP (5167e8d06c6115c3be0ed7cf8807de69)] -> link text: Sign in]
+Entering Email ID:qatest7207@gmail.comUsing object[[ChromeDriver: chrome on XP (5167e8d06c6115c3be0ed7cf8807de69)] -> name: email_create]
+Clicked on createaccount button with object: [[ChromeDriver: chrome on XP (5167e8d06c6115c3be0ed7cf8807de69)] -> xpath: //*[@class='icon-user left']]
+Verify customer info page by using object :[[ChromeDriver: chrome on XP (5167e8d06c6115c3be0ed7cf8807de69)] -> xpath: //*[text()='Create an account']]
+Clicked on genderid button with object: [[ChromeDriver: chrome on XP (5167e8d06c6115c3be0ed7cf8807de69)] -> id: id_gender2]
+_______________TC001_Test is End___________
+____________TC001 _Test is started___________
+Clicked on signin button with object: [[ChromeDriver: chrome on XP (7164ec777a9e5c1ac24798e740e7b831)] -> link text: Sign in]
+Entering Email ID:qatest8710@gmail.comUsing object[[ChromeDriver: chrome on XP (7164ec777a9e5c1ac24798e740e7b831)] -> name: email_create]
+Clicked on createaccount button with object: [[ChromeDriver: chrome on XP (7164ec777a9e5c1ac24798e740e7b831)] -> xpath: //*[@class='icon-user left']]
+Verify customer info page by using object :[[ChromeDriver: chrome on XP (7164ec777a9e5c1ac24798e740e7b831)] -> xpath: //*[text()='Create an account']]
+____________TC001 _Test is started___________
+Clicked on signin button with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> link text: Sign in]
+Entering Email ID:qatest5664@gmail.comUsing object[[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: email_create]
+Clicked on createaccount button with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> xpath: //*[@class='icon-user left']]
+Verify customer info page by using object :[[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> xpath: //*[text()='Create an account']]
+Clicked on genderid button with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> id: id_gender2]
+Entering firstname with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: customer_firstname]
+Entering custlastname with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: customer_lastname]
+Entering password with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: passwd]
+Selecting days with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: days]
+Selecting months with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: months]
+Selecting years with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: years]
+Entering company with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: company]
+Entering address with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: address1]
+Entering city with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: city]
+Selecting state with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: id_state]
+Entering postal with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: postcode]
+Selecting country with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: id_country]
+Entering phone with object: [[ChromeDriver: chrome on XP (98b6118c8ded1eda5278285bf3e62ad9)] -> name: phone_mobile]
